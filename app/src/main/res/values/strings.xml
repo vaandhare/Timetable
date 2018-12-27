@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Timetable</string>
+    <string name="fetch">Fetch</string>
+    <string name="save">Save</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "918034716111",
+    "firebase_url": "https://timetable-1d3e6.firebaseio.com",
+    "project_id": "timetable-1d3e6",
+    "storage_bucket": "timetable-1d3e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918034716111:android:ef81e57f52081eb2",
+        "android_client_info": {
+          "package_name": "imran.com.timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918034716111-95opa5dvrl3i12m8svoufus2iafeof91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "imran.com.timetable",
+            "certificate_hash": "dbb13be3f326f0e3187e4f45dd47bdb7d40a346e"
+          }
+        },
+        {
+          "client_id": "918034716111-12koge951ubsmglq3643441a80q271gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI2uXLJ-f1Nv0V7STGeL3cGvzUna5o73o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918034716111-12koge951ubsmglq3643441a80q271gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

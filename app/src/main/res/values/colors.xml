@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#41d5da</color>
+    <color name="colorPrimaryDark">#05c9cf</color>
+    <color name="colorAccent">#24acff</color>
+    <color name="white">#ffffff</color>
+    <color name="dark_green">#124f3b</color>
+    <color name="grey">#292929</color>
+    <color name="black">#000000</color>
+    <color name="background1">#FF85DBDE</color>
+    <color name="background2">#FF77E07B</color>
+    <color name="background3">#FFE4F1F9</color>
+
+    <color name="day_color">#F2C42614</color>
+    <color name="hrs_color">#f2c49514</color>
+    <color name="min_color">#f240c414</color>
+    <color name="sec_color">#f21460c4</color>
+    <color name="dheeraj_bakground">#222e33</color>
+    <color name="dheeraj_foreground">#045963</color>
+</resources>
